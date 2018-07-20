@@ -1,0 +1,12 @@
+[2018-07-18 10:53:52] files.INFO: I am debug  
+[2018-07-18 10:53:52] files.INFO: I am error {"productId":123} 
+[2018-07-18 10:54:10] files.INFO: I am debug  
+[2018-07-18 10:54:10] files.INFO: I am error {"productId":123} 
+[2018-07-18 10:55:57] files.INFO: I am debug  
+[2018-07-18 10:55:57] files.INFO: I am error {"productId":123} 
+[2018-07-18 11:27:17] files.INFO: I am debug  
+[2018-07-18 11:27:17] files.INFO: I am error {"productId":123} 
+[2018-07-18 11:27:26] files.INFO: I am debug  
+[2018-07-18 11:27:26] files.INFO: I am error {"productId":123} 
+[2018-07-18 11:28:15] files.INFO: I am debug  
+[2018-07-18 11:28:15] files.INFO: I am error {"productId":123} 
